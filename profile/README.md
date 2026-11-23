@@ -22,4 +22,4 @@ Fleetify is an open-source desktop app for running coding agents side by side. S
 
 **Contributing:** issues and pull requests are welcome. Start with [CONTRIBUTING.md](https://github.com/fleetifydev/fleetify/blob/main/CONTRIBUTING.md) and the [good first issues](https://github.com/fleetifydev/fleetify/issues?q=is%3Aissue%20is%3Aopen%20label%3A%22good%20first%20issue%22). Report security issues privately through [GitHub's vulnerability reporting](https://github.com/fleetifydev/fleetify/security/advisories/new).
 
-Follow along on [X](https://x.com/fleetifydev) and [LinkedIn](https://www.linkedin.com/company/fleetifyai).
+Follow along on [X](https://x.com/fleetify_dev) and [LinkedIn](https://www.linkedin.com/company/fleetifyai).
